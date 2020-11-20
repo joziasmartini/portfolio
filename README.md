@@ -9,6 +9,8 @@ My recent and past works.
   <img width="80%" src="entre-letras-cuidado-nao-leia.png"><br><br>
   <img width="80%" src="delicia-caseira.png"><br><br>
   <img width="80%" src="filosofia-em-casa-corpo-proprio-e-vulnerabilidade.png"><br><br>
+  <img width="80%" src="logotipo-entre-letras.png"><br><br>
+  <img width="80%" src="lotus.png"><br><br>
   <img width="80%" src="taro-venusiano.png"><br><br>
   <img width="80%" src="valor-inicial-tipos-de-fundos.png"><br><br>
   <img width="80%" src="hermetismo-curso-de-iniciacao.png"><br><br>
